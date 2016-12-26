@@ -1,0 +1,74 @@
+li{
+  list-style: none;
+  color: white;
+  padding-top: 10px;
+  padding-right: 20px;
+}
+
+.navbar{
+  border: none;
+}
+
+#google{
+  margin-right: 50px;
+}
+
+#batman {
+  margin-left: 250px; /* "0" pour qu'il ne soit pas déplacé verticalement, et "auto" pour qu'il soit centré (quelque soit la largeur du support) */
+  margin-top: 100px;
+}
+
+#twit{
+  float: right;
+  margin-top: 150px;
+  margin-right: 5px;
+}
+
+#Fb {
+  float: right;
+  margin-top: 230px;
+  margin-right: -65px;
+}
+
+#Snapchat{
+  float: right;
+  margin-top: 320px;
+  margin-right: -70px;
+}
+
+#linkedin{
+  float: right;
+  margin-top: 410px;
+  margin-right: -70px;
+}
+
+.fontaw {
+  float: right;
+}
+
+.service {
+  text-align: center;
+}
+
+.servA{
+  float: left;
+  width: 300px;
+  height: 500px;
+  margin-top: -20px;;
+}
+
+.servB{
+  float: center;
+  width: 300px;
+  height: 500px;
+  margin-left: 400px;
+  margin-top: 220px;
+}
+
+.servC{
+  float: right;
+  width: 300px;
+  height: 500px;
+  margin-right: 180px;
+  margin-top: -520px;
+}
